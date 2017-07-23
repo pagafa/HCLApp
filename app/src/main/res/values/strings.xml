@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">NFC Manager</string>
+	<string name="main_description">Select the action you want to associate with the NFC tag</string>
+	<string name="url">URL</string>
+	<string name="location">Location</string>
+	<string name="write_tag">Write Tag</string>
+</resources>
